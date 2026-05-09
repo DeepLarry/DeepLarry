@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&lines=Hey+👋+I'm+Deep+Tiwari;PolyMath+Developer+🧠;AI+Agent+Builder;Data+%2B+Finance+%2B+Automation;Exploring+Multiple+Domains+🚀;Code+%7C+Research+%7C+Build+%7C+Teach" />
 
 </h1>
-
+<p>**Building AI Agents, automation systems, and intelligent workflows using multi-domain thinking.**</p>
 
 ---
 
