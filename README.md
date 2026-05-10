@@ -43,7 +43,7 @@ Philosophy:
 
 ---
 
-# ⚡ MULTI-DOMAIN TECH STACK
+## ⚡ MULTI-DOMAIN TECH STACK
 
 <p align="center">
 
